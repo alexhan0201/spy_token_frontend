@@ -1,0 +1,62 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "SPY Token",
+      "symbol": "SPY",
+      "address": "0x17fd3cAa66502C6F1CbD5600D8448f3aF8f2ABA1",
+      "chainId": 56,
+      "decimals": 0,
+      "logoURI": "https://app.spy-token.io/images/tokens/0x17fd3cAa66502C6F1CbD5600D8448f3aF8f2ABA1.png"
+    },
+    {
+      "name": "SPY Token",
+      "symbol": "SPY",
+      "address": "0x6F25144001Ce324E745c3FF25a646A292883feD5",
+      "chainId": 97,
+      "decimals": 0,
+      "logoURI": "http://test.smarty-pay.com/images/tokens/0x6F25144001Ce324E745c3FF25a646A292883feD5.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0x2aFD1d7DADEfb7fE31364A4f57f704c1558C8Edc",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "http://test.smarty-pay.com/images/tokens/0x2aFD1d7DADEfb7fE31364A4f57f704c1558C8Edc.png"
+    },
+    {
+      "name": "Binance-Peg USD Coin",
+      "symbol": "USDC",
+      "address": "0x5eC8797235c38A854447c8f21D226c09dC812D70",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
+    },
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB", 
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    }
+  ]
+}
